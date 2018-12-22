@@ -1,0 +1,9 @@
+name: ChatCore
+author: Lucoder
+version: 1.0.0
+
+main: de.Lucoder.ChatCore.Main
+
+commands:
+  clearchat:
+    description: Clears the Chat.
